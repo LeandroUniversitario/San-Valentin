@@ -1,0 +1,22 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node (por si en el futuro usas npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de entorno
+.env
